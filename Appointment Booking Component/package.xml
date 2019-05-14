@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>AppointmentEmailHandler</members>
+        <members>CalendarEventClass</members>
+        <members>CalendarEventClassTest</members>
+        <members>EventTriggerHandler</members>
+        <members>MyCalendarButtonPicklist</members>
+        <members>eventTriggerHandlerTest</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>EventTrigger</members>
+        <name>ApexTrigger</name>
+    </types>
+    <types>
+        <members>AnyCalendar</members>
+        <members>BookAppointment</members>
+        <members>EventCalendar</members>
+        <name>AuraDefinitionBundle</name>
+    </types>
+    <types>
+        <members>Activity.Booking_Confirmed__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Event_Calendar__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Contact-Contact Layout</members>
+        <members>Event-Event Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Contact.Book_Appointment</members>
+        <name>QuickAction</name>
+    </types>
+    <version>45.0</version>
+</Package>
